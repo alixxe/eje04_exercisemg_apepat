@@ -1,0 +1,22 @@
+{
+  "name": "eje04",
+  "version": "1.0.0",
+  "description": "Ejemplo 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alixxe/eje04_exercisemg_apepat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alixxe/eje04_exercisemg_apepat/issues"
+  },
+  "homepage": "https://github.com/alixxe/eje04_exercisemg_apepat#readme",
+  "dependencies": {
+    "number-to-words": "^1.2.3"
+  }
+}
